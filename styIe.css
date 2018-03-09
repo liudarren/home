@@ -120,28 +120,28 @@ img:last-of-type
 
 #slide1:before 
 {
-  background-image: url("Images/Lightning.gif");
+  background-image: url("Lightning.gif");
   transform: translateZ(-1px) scale(2);
 }
 
 #slide2 
 {
-  background-image: url("Images/Green.jpg");
+  background-image: url("Green.jpg");
   z-index:2;
 }
 
 #slide3:before 
 {
-  background-image: url("Images/Snow.gif");
+  background-image: url("Snow.gif");
   transform: translateZ(-1px) scale(2);
 }
 
 #slide4 
 {
-  background-image: url("Images/Emerald.gif")
+  background-image: url("Emerald.gif")
 }
 
 #slide5 
 {
-  background-image: url("Images/Light Spectrum.gif")
+  background-image: url("Light Spectrum.gif")
 }
